@@ -1,0 +1,6 @@
+#wrap{width: 100%; height: auto;}
+#wrap #section1{height: 100vh; width: 100%; background: #ECE5E1;}
+#wrap #section1 .menu{width: 100%; height: 50px; border-bottom: 1px solid #767371;
+    border-top: 1px solid #767371; position: absolute; top: 22px;
+}
+#wrap #section1 .menu p{line-height: 50px; padding-left: 100px;}
