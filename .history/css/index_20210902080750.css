@@ -113,15 +113,10 @@
         border-right: 1px solid #767371;
     }
 
-    #wrap #section1 .content_bottom .rsum3{
-    padding-right: 5%;
-    }
-
     #wrap #section1 .content_bottom .rsum3 p{
         text-align: right;
     }
     #wrap #section1 .content_bottom .rsum3 .fitst_write{
         font-weight: bold;
         font-size: 1.3vw;
-        padding-bottom: 3vh;
     }
