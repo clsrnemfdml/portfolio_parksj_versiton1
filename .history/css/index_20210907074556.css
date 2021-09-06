@@ -135,17 +135,11 @@
     }
     #wrap #section1 .content_bottom .rsum3 ul{
         padding: 0 20%;
+        line-height: 3vh;
     }
 
     #wrap #section1 .content_bottom .rsum3 .fitst_write{
         font-weight: bold;
-        font-size: 1.4vw;
+        font-size: 1.3vw;
         padding-bottom: 3vh;
     }
-
-
-
-    /* 클릭메뉴 */
-    .clickMenu{width: 100%; height: 100%; background-color: black;
-    position: absolute; z-index: 888;
-    top: 0; left: 0;}

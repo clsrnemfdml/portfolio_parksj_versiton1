@@ -39,7 +39,7 @@
     right: 4%;
     top: 50%;
     transform: translate(-50%, -50%);
-    width: 30px;
+    width: 3vw;
     height: 2px;
     background: rgb(0, 0, 0);
     float: right;
@@ -98,54 +98,30 @@
         width: 33.333%;
         height: auto;
         font-size: 1.1vw;
-        
-
-        
-
+        padding-left: 5%;
         
     }
     #wrap #section1 .content_bottom > div p{
-        padding-bottom: 10px;
+        padding-bottom: 3px;
     }
 
     #wrap #section1 .content_bottom .rsum1{
         border-right: 1px solid #767371;
-        display: flex;
-        justify-content: center;
-        align-items: flex-end;
-        line-height: 3vh;
-        padding-bottom: 5%;
-        
 
     }
     #wrap #section1 .content_bottom .rsum2{
         border-right: 1px solid #767371;
-        display: flex;
-        justify-content: center;
-        align-items: flex-end;
-        line-height: 3vh;
-        padding-bottom: 5%;
     }
 
     #wrap #section1 .content_bottom .rsum3{
-        display: flex;
-        justify-content: end;
-        align-items: center;
-        line-height: 3vh;
-    }
-    #wrap #section1 .content_bottom .rsum3 ul{
-        padding: 0 20%;
+    padding-right: 5%;
     }
 
+    #wrap #section1 .content_bottom .rsum3 p{
+        text-align: right;
+    }
     #wrap #section1 .content_bottom .rsum3 .fitst_write{
         font-weight: bold;
-        font-size: 1.4vw;
+        font-size: 1.3vw;
         padding-bottom: 3vh;
     }
-
-
-
-    /* 클릭메뉴 */
-    .clickMenu{width: 100%; height: 100%; background-color: black;
-    position: absolute; z-index: 888;
-    top: 0; left: 0;}
