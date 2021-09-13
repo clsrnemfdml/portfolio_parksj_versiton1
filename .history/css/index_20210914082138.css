@@ -204,31 +204,19 @@ z-index: 99999;} */
         transform: translateY(-50%);
     }
 
-    #wrap #section2 .content{
-        display: flex;
-        border-bottom: 1px solid #767371;
-    }
+    
     #wrap #section2 .content div{
         height: 60vh; 
         position: relative; 
-        width: 70vw;
+        width: 100%;
         font-size: 8vw;
+        text-align: center;
+        border-bottom: 1px solid #767371;
         display: flex;
         align-items: center;
         justify-content: flex-start;
-        padding-left: 5%;
         
 
-    }
-
-    #wrap #section2 .content div p .suji{
-        color: #ECE5E1;
-        text-shadow: -1px 0 #000000, 0 1px #000000, 2px 0 #000000, 0 -1px #000000;
-    }
-
-    #wrap #section2 .content .suImg{
-        width: 30vw;
-        background: red;
     }
 
 

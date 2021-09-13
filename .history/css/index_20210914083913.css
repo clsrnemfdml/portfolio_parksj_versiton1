@@ -211,7 +211,7 @@ z-index: 99999;} */
     #wrap #section2 .content div{
         height: 60vh; 
         position: relative; 
-        width: 70vw;
+        width: 70%;
         font-size: 8vw;
         display: flex;
         align-items: center;
@@ -227,7 +227,7 @@ z-index: 99999;} */
     }
 
     #wrap #section2 .content .suImg{
-        width: 30vw;
+        width: 30%;
         background: red;
     }
 
