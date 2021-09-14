@@ -211,13 +211,18 @@ z-index: 99999;} */
     #wrap #section2 .content div{
         height: 60vh; 
         position: relative; 
-        font-size: 8vw;
         display: flex;
         align-items: center;
         justify-content: flex-start;
         padding-left: 5%;
         
 
+    }
+    #wrap #section2 .content div p{
+        font-size: 8vw;
+    }
+    #wrap #section2 .content div p span{
+        font-size: 8vw;
     }
 
     #wrap #section2 .content div p .suji{
@@ -226,20 +231,13 @@ z-index: 99999;} */
     }
 
     #wrap #section2 .content .suImg{
-        width: 30vw;
     }
     #wrap #section2 .content .suImg img{
-        width: 100%;
+        width: 500px;
         height: auto;
-        border: 1px solid #767371;
+        color: white;
 
     }
-    #wrap #section2 .content .suImg .imgName{
-        font-size: 1vw;
-        transform: rotate(90deg);
-    }
-
-    
 
 
 

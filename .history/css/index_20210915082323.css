@@ -235,6 +235,7 @@ z-index: 99999;} */
 
     }
     #wrap #section2 .content .suImg .imgName{
+        width: 100%;
         font-size: 1vw;
         transform: rotate(90deg);
     }

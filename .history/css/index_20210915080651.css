@@ -211,7 +211,6 @@ z-index: 99999;} */
     #wrap #section2 .content div{
         height: 60vh; 
         position: relative; 
-        font-size: 8vw;
         display: flex;
         align-items: center;
         justify-content: flex-start;
@@ -219,27 +218,25 @@ z-index: 99999;} */
         
 
     }
+    #wrap #section2 .content div p{
+        font-size: 8vw;
+    }
 
     #wrap #section2 .content div p .suji{
         color: #ECE5E1;
         text-shadow: -1px 0 #000000, 0 1px #000000, 2px 0 #000000, 0 -1px #000000;
+        font-size: 8vw;  
+
     }
 
     #wrap #section2 .content .suImg{
-        width: 30vw;
     }
     #wrap #section2 .content .suImg img{
-        width: 100%;
+        width: 500px;
         height: auto;
-        border: 1px solid #767371;
+        color: white;
 
     }
-    #wrap #section2 .content .suImg .imgName{
-        font-size: 1vw;
-        transform: rotate(90deg);
-    }
-
-    
 
 
 

@@ -211,6 +211,7 @@ z-index: 99999;} */
     #wrap #section2 .content div{
         height: 60vh; 
         position: relative; 
+        width: 70vw;
         font-size: 8vw;
         display: flex;
         align-items: center;
@@ -227,19 +228,15 @@ z-index: 99999;} */
 
     #wrap #section2 .content .suImg{
         width: 30vw;
+        background: red;
     }
     #wrap #section2 .content .suImg img{
-        width: 100%;
+        border: 1px solid black;
+        width: 500px;
         height: auto;
-        border: 1px solid #767371;
+        color: white;
 
     }
-    #wrap #section2 .content .suImg .imgName{
-        font-size: 1vw;
-        transform: rotate(90deg);
-    }
-
-    
 
 
 

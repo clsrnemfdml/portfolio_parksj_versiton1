@@ -231,15 +231,9 @@ z-index: 99999;} */
     #wrap #section2 .content .suImg img{
         width: 100%;
         height: auto;
-        border: 1px solid #767371;
+        border: 1px solid bl;
 
     }
-    #wrap #section2 .content .suImg .imgName{
-        font-size: 1vw;
-        transform: rotate(90deg);
-    }
-
-    
 
 
 

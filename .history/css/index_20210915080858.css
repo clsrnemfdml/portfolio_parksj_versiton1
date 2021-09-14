@@ -227,19 +227,16 @@ z-index: 99999;} */
 
     #wrap #section2 .content .suImg{
         width: 30vw;
+        background: red;
+        border: 1px solid black;
+        margin: 10px;
     }
     #wrap #section2 .content .suImg img{
-        width: 100%;
+        width: 500px;
         height: auto;
-        border: 1px solid #767371;
+        color: white;
 
     }
-    #wrap #section2 .content .suImg .imgName{
-        font-size: 1vw;
-        transform: rotate(90deg);
-    }
-
-    
 
 
 
