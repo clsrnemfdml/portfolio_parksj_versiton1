@@ -221,7 +221,7 @@ z-index: 99999;} */
     }
 
     #wrap #section2 .content .suWrite{
-        width: 60vw;
+        width: 70vw;
         height: 60vh; 
         position: relative; 
         font-size: 8vw;
@@ -238,6 +238,7 @@ z-index: 99999;} */
         display: flex;
         align-items: center;
         justify-content: flex-start;
+        padding-left: 5%;
     }
     #wrap #section2 .content .suImg img{
         width: 100%;
@@ -248,7 +249,6 @@ z-index: 99999;} */
     #wrap #section2 .content .suImg .imgName{
         font-size: 1vw;
         transform: rotate(90deg);
-        white-space: nowrap;
     }
 
     

@@ -228,7 +228,6 @@ z-index: 99999;} */
         display: flex;
         align-items: center;
         justify-content: flex-start;
-        padding-left: 5%;
     }
     #wrap #section2 .content .suImg{
         width: 30vw;
@@ -248,7 +247,6 @@ z-index: 99999;} */
     #wrap #section2 .content .suImg .imgName{
         font-size: 1vw;
         transform: rotate(90deg);
-        white-space: nowrap;
     }
 
     
