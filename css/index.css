@@ -61,7 +61,7 @@ z-index: 99999;} */
     padding-left: 5%;
     position: absolute;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translate(-10%, -50%);
 }
 #wrap #section1 .menu span{
     display: block;
